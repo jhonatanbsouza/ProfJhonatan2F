@@ -42,3 +42,26 @@ body{
 .segundo-paragrafo{
     padding: 15px 0;
 }
+.estudante-fotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.rodape{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo{
+    width: 10%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover   {
+    color: burlywood;
+}
